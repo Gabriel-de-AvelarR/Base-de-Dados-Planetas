@@ -1,6 +1,6 @@
 # Projeto Base de Dados Planetas
 
-#Grupo 5 :
+## Grupo 5 :
 * Alexandre Lopes Ferreira Dias dos Santos 11801199
 * Fernando Rosalini Calaza 11231965
 * Luigi Quaglio 11800563
